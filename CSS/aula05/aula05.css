@@ -1,0 +1,16 @@
+body{
+    background-image: url(../../imagens/cyberpunke_s1_episode4_043__9jamn0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: cadetblue;
+}
+header{
+    height: 100vh;
+    color: antiquewhite;
+}
+main{
+    height: 100vh;
+    color: darksalmon;
+    font-size: 30px;
+}

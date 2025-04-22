@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+ body{
+    background-color: goldenrod;
+    color: darkmagenta;
+ }
+ p{
+    color: brown;text-align: center;
+ }
+
+ h1, h2, h3{
+    text-align: justify;
+    font-size: 70px;
+
+    text-shadow: 15px 15px 15px black;
+ }
+ span{
+    font-weight: bolder;
+ }
+ ol>li{
+    background-color: green;
+ }
+ div{
+display: flex;
+justify-content: end;
+ }

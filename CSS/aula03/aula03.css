@@ -1,0 +1,36 @@
+body{
+background-color: #EFDFCC;
+color: blueviolet;
+font-size: 24px;
+}
+h1{
+    font-size: 45px;
+}
+p{
+    text-align: justify;
+    color: #D4C2AD;
+}
+div{
+    display: flex ;
+    justify-content: center;
+}
+.Formatacao{
+    text-align: center;
+    font-size: 20px;
+    color: #D7A184;
+}
+.Lista{
+    font-size: 30px;
+    color: #BA8E7A;
+    list-style: square;
+}
+#bruno{
+font-size: 20px;
+text-shadow: 5px, 5px, 5px;
+color: #66796B;
+}
+p.jota{
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+}

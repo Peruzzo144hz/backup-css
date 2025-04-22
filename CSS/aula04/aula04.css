@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#titulo{
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+    color: cadetblue;
+    font-weight: 800;
+    margin: 5px;
+    padding: 5px;
+}
+h1{
+border-radius: 20px;
+background-color: red;
+margin: 0 auto;
+width: 50%;
+
+
+}
+body{
+    background-color: green;
+}
+div{
+    color: tan;
+}
+footer{
+    color: beige;
+}
+img{
+    width: 300px;
+}
+figure{
+    background-color: aqua;
+    width: 18vw;
+    text-align: justify;
+    border: 4px solid red;
+}
+#centro{
+    margin-left: 25%;
+}

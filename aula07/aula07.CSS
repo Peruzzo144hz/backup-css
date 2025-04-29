@@ -1,0 +1,47 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:hover {
+    background-color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: chocolate;
+}
+
+input:focus {
+    background-color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+img:hover {
+    filter: drop-shadow(60px 10px 5px rgb(255, 104, 129));
+    border: solid 5px black;
+    padding: 100px;
+    
+}
+
+nav {
+    background-color: yellow;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 100px;
+}
+
+nav>a {
+    line-height: 200%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px;
+    text-decoration: dashed;
+    padding: 10px;
+
+}
+div{
+    text-align: center;
+}

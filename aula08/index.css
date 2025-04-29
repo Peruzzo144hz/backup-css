@@ -1,0 +1,28 @@
+/* variável
+nome-aluno  - kebap-case
+nomeProfessor - CamelCase*/
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+:root {
+    --cor-primária: #daa520;
+    --cor-secundária: #4169e1;
+    --cor-terciária: #5f9ea0;
+    --cor-quaternária: #9536a2;
+    --gradiente-pag: linear-gradient(to right, 
+    var(--cor-primária), 
+    var(--cor-terciária)
+    );
+}
+body{
+    background: var(--gradiente-pag);
+}
+
+h1 {
+    color: var(--cor-secundária);
+}
+
+p {
+    color: var(--cor-quaternária);
+}

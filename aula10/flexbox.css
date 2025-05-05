@@ -1,0 +1,38 @@
+.container {
+    width: 800px;
+    height: 600px;
+    background-color: bisque;
+    border: 10px double black;
+    display: flex;
+    flex-direction: column;
+    /* flex-direction: row-reverse; */
+    justify-content: center;
+    align-items: center; 
+    /* direction: rtl; */
+    flex-wrap: wrap;
+    /* flex-flow: row nowrap; */
+    /* justify-content: end; */
+    justify-content: space-between;
+}
+
+.box1 {
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    margin: 10px;
+    border: 5px solid goldenrod;
+}
+
+.box2 {
+    width: 120px;
+    height: 120px;
+    background-color: royalblue;
+    margin: 10px;
+}
+
+.box3 {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    background-color: cadetblue;
+}

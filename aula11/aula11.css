@@ -1,0 +1,49 @@
+.container {
+    background-color: aquamarine;
+    height: 400px;
+    width: 800px;
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: space-between;
+    align-items: center ;
+    
+
+
+
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: dotted 5px black;
+    margin: 10px;
+}
+
+.item1 {
+    background-color: red;
+   flex-grow: 1;
+   order: ;
+   align-self: flex-start;
+}
+
+.item2 {
+    background-color: green;
+    flex-grow: 10;
+    order: ;
+    align-self: flex-end;
+}
+
+.item3 {
+    background-color: blue;
+    flex-grow: 1;
+    order: ;
+    flex-shrink: 1;
+    align-self: flex-start;
+}
+
+body {
+    background-color: lightblue;
+}
+
+/* >o) 
+   (_> */
